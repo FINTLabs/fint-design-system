@@ -3,7 +3,7 @@
  */
 
 body {
-    font-family: "heebo", "helvetica", sans-serif;
+    font-family: "HelveticaNeue", "Helvetica", "Arial", sans-serif;
     /*
     font-weight: 400;
     font-size: 1.6rem;
@@ -55,4 +55,18 @@ a {
 
 .f-logo-small {
     width: 50px;
+}
+
+.f-paragraph {
+    color: #666666;
+    font-size: 0.9em;
+}
+h1 {
+    color: #666666;
+    font-size:3em;
+}
+input {
+    border: 1px solid #666666;
+    border-radius: 5px;
+    padding: 5px;
 }

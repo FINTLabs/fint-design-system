@@ -1,0 +1,58 @@
+/*
+ * YOUR STYLES HERE
+ */
+
+body {
+    font-family: "heebo", "helvetica", sans-serif;
+    /*
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.6em;
+    */
+}
+
+a {
+    text-decoration: none;
+}
+
+.f-button {
+    display: inline-block;
+    background: #cf202e;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1rem;
+}
+
+.f-button:focus {
+    outline: 0;
+}
+
+.f-button-outlined {
+    background-color: #fff;
+    color: #cf202e;
+    border: 1px solid #cf202e;
+}
+
+.f-link-button {
+    display: inline-block;
+    /*padding: 10px 20px;*/
+    border-radius: 5px;
+    color: #cf202e;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.f-logo-normal {
+    /*height: 47.13px;*/
+    width: 110px;
+}
+
+.f-logo-large {
+    /*height: 100%;*/
+    width: 100%;
+}
+
+.f-logo-small {
+    width: 50px;
+}

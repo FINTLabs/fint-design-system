@@ -1,0 +1,40 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    io.kompose.service: design-system
+  name: design-system
+spec:
+  selector:
+    matchLabels:
+      io.kompose.service: design-system
+  replicas: 1
+  minReadySeconds: 10
+  revisionHistoryLimit: 0
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxUnavailable: 0
+      maxSurge: 1
+  template:
+    metadata:
+      labels:
+        io.kompose.service: design-system
+    spec:
+      restartPolicy: Always
+      containers:
+        - name: design-system
+          image: fintlabs.azurecr.io/design-system:RC-2
+          ports:
+            - containerPort: 80
+          readinessProbe:
+            httpGet:
+              port: 80
+              path: /
+          resources:
+            limits:
+              memory: "128Mi"
+              cpu: "500m"
+          env:
+            - name: TZ
+              value: Europe/Oslo

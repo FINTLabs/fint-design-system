@@ -3,7 +3,8 @@
  */
 
 body {
-    font-family: "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
     /*
     font-weight: 400;
     font-size: 1.6rem;
@@ -13,6 +14,13 @@ body {
 
 a {
     text-decoration: none;
+}
+
+.f-feature-buttons {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
 }
 
 .f-button {
@@ -43,9 +51,73 @@ a {
     font-weight: bold;
 }
 
+.f-round-button {
+    background-color:#8bc34a;/* #8bc34a;*/
+    border: 3px solid #8bc34a;
+    color: black;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    padding: 20px;
+    margin: 4px 2px;
+    text-decoration: none;
+}
+
+.f-round-button:hover {
+    background-color: #ffffff;
+    color: #8bc34a;
+}
+.f-big-button {
+	color: #fff;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 10px;
+	height: 60px;
+	width: 250px;
+	/*padding: 20px;
+	margin: 4px 2px;*/
+    text-decoration: none;
+    background-color: #cf202e;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+#f-to-top-button {
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    background-color: #8bc34a;
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    font-size: 18px;
+    border: none;
+    box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+}
+
+#f-to-top-button:hover {
+    color: #8bc34a;
+    font-weight: bold;
+    background-color: #ffffff;
+    border: 2px solid #8bc34a;
+}
+
+i {
+    font-size: xx-large;
+}
+
 .f-logo-normal {
     /*height: 47.13px;*/
-    width: 110px;
+    width: 150px;
+    /*margin: -10px;*/
 }
 
 .f-logo-large {
@@ -57,16 +129,126 @@ a {
     width: 50px;
 }
 
+.f-vigo-logo-normal {
+    width: 75px;
+}
+
+.f-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.f-illustration {
+    width: 400px;
+}
+
 .f-paragraph {
     color: #666666;
     font-size: 0.9em;
 }
+
+.f-about-fint {
+    margin: 30px;
+    font-size: 20px;
+}
+
+.f-menu {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 36px;
+}
+
+.f-menu-list {
+    display: flex;
+    flex-direction: row;
+    /* font-family: Arial; */
+    justify-content: space-around;
+    /* padding: 20px; */
+    list-style: none;
+}
+
+.f-menu-list li {
+    margin-right: 18px;
+}
+
+.f-menu-list a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 600;
+}
+
 h1 {
     color: #666666;
-    font-size:3em;
+    font-size: 3em;
 }
+
 input {
     border: 1px solid #666666;
     border-radius: 5px;
     padding: 5px;
+}
+
+.f-row {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+}
+.f-header {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* border-bottom: 2px solid #666666; */
+    background-color: #eee;
+    /* padding-bottom: 30px; */
+    align-items: end;
+    background-image: url(../../images/header-background.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 200px;
+}
+
+.f-footer {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color:#8bc34a;
+    margin-top: 50px;
+    padding: 20px;
+    font-family: 'Muli', sans-serif;
+}
+
+.f-contact {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    justify-content: space-around;
+}
+
+.f-contact a {
+    color: #333333;
+}
+
+.f-footer-paragraph {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.f-copyright {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+}
+
+.f-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }

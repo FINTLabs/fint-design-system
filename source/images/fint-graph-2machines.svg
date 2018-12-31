@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="127.54 190.181 246.613 134.875" xmlns="http://www.w3.org/2000/svg" style="background-color: transparent;">
+  <g transform="matrix(0.388812, 0, 0, 0.388812, 100.978355, 156.820648)" style="alignment-baseline: initial;">
+    <g transform="matrix(1, 0, 0, 1, -131.300995, 3.103739)" style="alignment-baseline : initial;">
+      <rect x="221.224" y="104.402" width="56.433" height="130.361" rx="5" ry="5" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102); stroke-width: 5px;"/>
+      <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="125.282" x2="266.94" y2="125.282"/>
+      <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="136.005" x2="266.94" y2="136.005"/>
+    </g>
+  </g>
+  <g transform="matrix(0.388812, 0, 0, 0.388812, 100.978355, 224.622696)" style="alignment-baseline: initial;">
+    <g transform="matrix(1, 0, 0, 1, -131.300995, 3.103739)" style="alignment-baseline : initial;">
+      <rect x="221.224" y="104.402" width="56.433" height="130.361" rx="5" ry="5" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102); stroke-width: 5px;"/>
+      <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="125.282" x2="266.94" y2="125.282"/>
+      <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="136.005" x2="266.94" y2="136.005"/>
+    </g>
+  </g>
+  <g style="fill: rgb(207, 32, 46); alignment-baseline: initial;" transform="matrix(1, 0, 0, 1, 56.022423, 67.548164)">
+    <circle cx="160.112" cy="198.013" r="10" style="alignment-baseline : initial;"/>
+    <circle cx="212.002" cy="231.406" r="10" style="alignment-baseline : initial;"/>
+    <circle cx="283.178" cy="227.524" r="10" style=""/>
+    <circle cx="226.112" cy="141.072" r="10" style=""/>
+    <circle cx="301.043" cy="170.583" r="10" style="alignment-baseline : initial;"/>
+    <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; stroke-width: 4px; alignment-baseline: initial;" x1="211.356" y1="232.052" x2="159.07" y2="197.111"/>
+    <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; fill: rgb(102, 102, 102); stroke-width: 4px;" x1="212.911" y1="230.759" x2="225.978" y2="141.465"/>
+    <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; stroke-width: 4px;" x1="300.263" y1="170.583" x2="282.271" y2="228.171"/>
+    <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; alignment-baseline: initial; stroke-width: 4px;" x1="300.91" y1="171.229" x2="212.389" y2="230.112"/>
+    <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; stroke-width: 4px;" x1="282.792" y1="226.876" x2="225.33" y2="141.464"/>
+    <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; alignment-baseline: initial; stroke-width: 4px;" x1="225.204" y1="141.524" x2="160.624" y2="199.759"/>
+    <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; alignment-baseline: initial; stroke-width: 4px;" x1="225.851" y1="140.17" x2="300.388" y2="169.935"/>
+    <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; fill: rgb(102, 102, 102); stroke-width: 4px;" x1="283.439" y1="227.524" x2="211.095" y2="233.347"/>
+    <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; fill: rgb(102, 102, 102); stroke-width: 4px;" x1="299.94" y1="169.935" x2="160.3" y2="197.759"/>
+  </g>
+  <path style="fill : transparent; stroke : rgb(140, 198, 64); stroke-dasharray : 2, 3; stroke-width : 2; alignment-baseline : initial;" d="M 161.264 225.126 L 201.018 224.781 L 213.401 253.439"/>
+  <path style="fill: transparent; stroke: rgb(140, 198, 64); stroke-dasharray: 2, 3; stroke-width: 2;" d="M 160.918 295.218 L 202.006 294.873 L 211.329 277.263"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 454.406 268.977"/>
+</svg>

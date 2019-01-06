@@ -1,0 +1,21 @@
+.f-logo-normal {
+    width: 150px;
+}
+
+.f-logo-large {
+    width: 100%;
+}
+
+.f-logo-small {
+    width: 50px;
+}
+
+.f-vigo-logo-normal {
+    width: 75px;
+}
+
+.f-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}

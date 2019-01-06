@@ -1,0 +1,37 @@
+header {
+    grid-area: header;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-color: #eee;
+    background-image: url(../../images/header-background.svg);
+    background-position: center;
+    background-size: auto;
+    height: 300px;
+    box-sizing: border-box;
+}
+
+.f-slogan {
+    width: 100%;
+    text-align: center;
+    margin: 10px 10px;
+}
+
+.f-slogan > h2 {
+    margin: 0;
+}
+
+.f-slogan > p {
+}
+
+
+.f-feature-buttons {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+}

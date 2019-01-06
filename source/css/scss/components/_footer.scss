@@ -1,0 +1,39 @@
+
+footer {
+    grid-area: footer;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: #eee;
+    background-image: url(../../images/header-background.svg);
+    background-position: center;
+    background-size: auto;
+    height: 100px;
+    align-self: end;
+}
+
+.f-contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.f-contact a,
+.f-copyright a {
+    color: #333333;
+}
+
+.f-footer-paragraph {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.f-footer-paragraph p {
+    margin: 0;
+}
+
+.f-copyright {
+    display: flex;
+    align-items: center;
+}

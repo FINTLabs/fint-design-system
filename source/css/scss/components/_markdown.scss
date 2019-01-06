@@ -1,0 +1,68 @@
+.markdown h1 {}
+
+
+.markdown ul ul {
+    list-style-type: square;
+}
+
+.markdown ol ol {
+    list-style-type: lower-alpha;
+}
+
+.markdown a {
+    color: $color-vigo-grey;
+}
+
+.markdown a:hover {
+    text-decoration: underline;
+}
+
+.markdown blockquote {
+    padding: 0 1em;
+    color: #6a737d;
+    border-left: 0.25em solid #dfe2e5;
+}
+
+.markdown code {
+    padding: 0.2em 0.4em;
+    background: rgba(27, 31, 35, 0.05);
+    border-radius: 3px;
+    color: $color-fint-red;
+}
+
+.markdown pre {
+    padding: 16px;
+    overflow: auto;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+    border-radius: 3px;
+}
+
+.markdown pre>code {
+    background: none;
+    color: unset;
+}
+
+.markdown table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+.markdown table, tr {
+    border: 1px solid #ddd;
+}
+
+.markdown thead {
+    background-color: $color-vigo-grey;
+    color: #fff;
+}
+.markdown th,
+.markdown td {
+    text-align: left;
+    padding: 8px;
+}
+
+.markdown tbody>tr:hover {
+    background-color: #f2f2f2;
+}

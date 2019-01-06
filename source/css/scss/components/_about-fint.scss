@@ -1,0 +1,22 @@
+.f-about-fint {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 30px;
+    font-size: 20px;
+}
+
+.f-about-fint p > a {
+    font-size: 1.5em;
+}
+
+.f-about-fint > p {
+    font-size: 1em;
+    width: 50%;
+    margin: 0;
+}
+
+.f-about-fint > img {
+    width: 35%;
+    height: 35%;
+}

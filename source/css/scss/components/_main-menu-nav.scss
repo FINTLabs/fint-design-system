@@ -1,0 +1,23 @@
+.f-main-menu-nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 56px;
+}
+
+.f-main-menu-nav-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.f-main-menu-nav-list li {
+    margin-right: 18px;
+}
+
+.f-main-menu-nav-list a {
+    color: $color-main-menu-link;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 1em;
+}

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="127.54 190.181 246.613 134.875" xmlns="http://www.w3.org/2000/svg" style="background-color: transparent;">
-  <g transform="matrix(0.388812, 0, 0, 0.388812, 100.978355, 156.820648)" style="alignment-baseline: initial;">
+<svg viewBox="0 0 235.254 123.579" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(0.388812, 0, 0, 0.388812, -33.018902, -39.355793)" style="alignment-baseline: initial;">
     <g transform="matrix(1, 0, 0, 1, -131.300995, 3.103739)" style="alignment-baseline : initial;">
       <rect x="221.224" y="104.402" width="56.433" height="130.361" rx="5" ry="5" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102); stroke-width: 5px;"/>
       <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="125.282" x2="266.94" y2="125.282"/>
       <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="136.005" x2="266.94" y2="136.005"/>
     </g>
   </g>
-  <g transform="matrix(0.388812, 0, 0, 0.388812, 100.978355, 224.622696)" style="alignment-baseline: initial;">
+  <g transform="matrix(0.388812, 0, 0, 0.388812, -33.018902, 28.446264)" style="alignment-baseline: initial;">
     <g transform="matrix(1, 0, 0, 1, -131.300995, 3.103739)" style="alignment-baseline : initial;">
       <rect x="221.224" y="104.402" width="56.433" height="130.361" rx="5" ry="5" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102); stroke-width: 5px;"/>
       <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="125.282" x2="266.94" y2="125.282"/>
       <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="136.005" x2="266.94" y2="136.005"/>
     </g>
   </g>
-  <g style="fill: rgb(207, 32, 46); alignment-baseline: initial;" transform="matrix(1, 0, 0, 1, 56.022423, 67.548164)">
+  <g style="fill: rgb(207, 32, 46); alignment-baseline: initial;" transform="matrix(1, 0, 0, 1, -77.974831, -128.628281)">
     <circle cx="160.112" cy="198.013" r="10" style="alignment-baseline : initial;"/>
     <circle cx="212.002" cy="231.406" r="10" style="alignment-baseline : initial;"/>
     <circle cx="283.178" cy="227.524" r="10" style=""/>
@@ -30,7 +30,7 @@
     <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; fill: rgb(102, 102, 102); stroke-width: 4px;" x1="283.439" y1="227.524" x2="211.095" y2="233.347"/>
     <line style="stroke: rgb(207, 32, 46); fill-rule: evenodd; fill: rgb(102, 102, 102); stroke-width: 4px;" x1="299.94" y1="169.935" x2="160.3" y2="197.759"/>
   </g>
-  <path style="fill : transparent; stroke : rgb(140, 198, 64); stroke-dasharray : 2, 3; stroke-width : 2; alignment-baseline : initial;" d="M 161.264 225.126 L 201.018 224.781 L 213.401 253.439"/>
-  <path style="fill: transparent; stroke: rgb(140, 198, 64); stroke-dasharray: 2, 3; stroke-width: 2;" d="M 160.918 295.218 L 202.006 294.873 L 211.329 277.263"/>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 454.406 268.977"/>
+  <path style="fill : transparent; stroke : rgb(140, 198, 64); stroke-dasharray : 2, 3; stroke-width : 2; alignment-baseline : initial;" d="M 27.267 28.95 L 67.021 28.605 L 79.404 57.263"/>
+  <path style="fill: transparent; stroke: rgb(140, 198, 64); stroke-dasharray: 2, 3; stroke-width: 2;" d="M 26.921 99.042 L 68.009 98.697 L 77.332 81.087"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
 </svg>

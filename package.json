@@ -13,7 +13,7 @@
     "pl:version": "patternlab --version",
     "sass": "sass source/css/style.scss:source/css/style.css",
     "pl": "patternlab",
-    "deploy": "rm -Rf dist && mkdir dist && sass source/css/style.scss:dist/style.css && cp source/js/* dist/ && uglifycss dist/style.css > dist/style.min.css"
+    "deploy": "rm -Rf dist && mkdir dist && mkdir dist/css && mkdir dist/images && mkdir dist/js && sass source/css/style.scss:dist/css/style.css && cp source/js/* dist/js && uglifycss dist/css/style.css > dist/css/style.min.css && cp source/images/*.svg dist/images"
   },
   "keywords": [],
   "author": "",

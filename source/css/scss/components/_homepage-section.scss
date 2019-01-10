@@ -1,23 +1,21 @@
-.f-about-fint {
+.f-homepage-section {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    align-items: center;
+    font-size: 1.1em;
     margin: 30px;
-    /* font-size: 20px; */
 }
 
-.f-about-fint p > a {
+.f-homepage-section p  {
+    font-size: 1.1em;
+    margin: 0;
+    width: 50%;
+}
+
+.f-homepage-section p > a {
     font-size: 1.5em;
 }
-
-.f-about-fint > p {
-    font-size: 1.8em;
-    width: 50%;
-    margin: 0;
-}
-
-.f-about-fint > img {
+.f-homepage-section > img {
     width: 35%;
     max-width: 430px;
     /* height: 35%; */

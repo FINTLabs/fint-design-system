@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 204.807 203.473" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1, 0, 0, 1, -23.18399, -21.643)">
+    <g>
+      <rect x="23.184" y="21.643" width="74.724" height="82.838" rx="2" ry="2" style="fill: rgb(255, 255, 255); stroke-width: 1; stroke: rgb(102, 102, 102);"/>
+      <text x="33.17" y="39.737" style="white-space: pre; fill: rgb(102, 102, 102); font-size: 16px;">Aktør</text>
+      <line style="stroke: rgb(102, 102, 102);" x1="23.184" y1="47.109" x2="97.908" y2="47.109"/>
+      <text x="34.46" y="58.111" style="white-space: pre; fill: rgb(102, 102, 102); font-size: 14px;" transform="matrix(1, 0, 0, 1, 0, 7)">...<tspan x="34.459999084472656" dy="1em">​</tspan>...<tspan x="34.459999084472656" dy="1em">​</tspan>...</text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 130.083145, 56.093929)">
+      <rect x="23.184" y="21.643" width="74.724" height="82.838" rx="2" ry="2" style="fill: rgb(255, 255, 255); stroke-width: 1; stroke: rgb(102, 102, 102);"/>
+      <text x="33.17" y="39.737" style="white-space: pre; fill: rgb(102, 102, 102); font-size: 16px;">Elev</text>
+      <line style="stroke: rgb(102, 102, 102);" x1="23.184" y1="47.109" x2="97.908" y2="47.109"/>
+      <text x="34.46" y="58.111" style="white-space: pre; fill: rgb(102, 102, 102); font-size: 14px;" transform="matrix(1, 0, 0, 1, 0, 7)">...<tspan x="34.459999084472656" dy="1em">​</tspan>...<tspan x="34.459999084472656" dy="1em">​</tspan>...</text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 120.635368)">
+      <rect x="23.184" y="21.643" width="74.724" height="82.838" rx="2" ry="2" style="fill: rgb(255, 255, 255); stroke-width: 1; stroke: rgb(102, 102, 102);"/>
+      <text x="33.17" y="39.737" style="white-space: pre; fill: rgb(102, 102, 102); font-size: 16px;">Person</text>
+      <line style="stroke: rgb(102, 102, 102);" x1="23.184" y1="47.109" x2="97.908" y2="47.109"/>
+      <text x="34.46" y="58.111" style="white-space: pre; fill: rgb(102, 102, 102); font-size: 14px;" transform="matrix(1, 0, 0, 1, 0, 7)">...<tspan x="34.459999084472656" dy="1em">​</tspan>...<tspan x="34.459999084472656" dy="1em">​</tspan>...</text>
+    </g>
+    <path style="fill: transparent; stroke: rgb(102, 102, 102);" d="M 153.475 123.966 L 129.266 124.115 L 129.266 190.394 L 97.744 190.394"/>
+    <path style="fill: transparent; stroke: rgb(102, 102, 102);" d="M 153.372 113.966 L 129.266 113.955 L 129.266 65.673 L 97.689 65.673"/>
+  </g>
+</svg>

@@ -21,13 +21,9 @@ header {
     margin: 10px 10px;
 }
 
-.f-slogan > h2 {
+.f-slogan>h2 {
     margin: 0;
 }
-
-.f-slogan > p {
-}
-
 
 .f-feature-buttons {
     display: flex;
@@ -36,7 +32,8 @@ header {
     justify-content: space-around;
 }
 
-.f-logo-normal {
+
+.f-fint-logo-normal {
     width: 150px;
 }
 
@@ -44,9 +41,8 @@ header {
     width: 75px;
 }
 
-.f-logo {
+.f-fint-logo {
     display: flex;
     flex-direction: row;
     align-items: baseline;
 }
-

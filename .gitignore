@@ -3,3 +3,4 @@ public
 pattern_exports
 dist
 .sass-cache
+dependencyGraph.json

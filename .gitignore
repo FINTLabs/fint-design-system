@@ -2,3 +2,4 @@ node_modules
 public
 pattern_exports
 dist
+.sass-cache

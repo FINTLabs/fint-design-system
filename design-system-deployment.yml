@@ -24,7 +24,7 @@ spec:
       restartPolicy: Always
       containers:
         - name: design-system
-          image: fintlabs.azurecr.io/design-system:RC-2
+          image: fintlabs.azurecr.io/design-system:PR-1-4
           ports:
             - containerPort: 80
           readinessProbe:

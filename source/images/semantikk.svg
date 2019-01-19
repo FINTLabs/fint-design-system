@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 184.478 148.711" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1, 0, 0, 1, -200.111542, -141.0681)">
+  <g transform="matrix(1, 0, 0, 1, -200.111542, -141.0681)" style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;;">
     <g transform="matrix(1, 0, 0, 1, -14.67515, 44.862358)">
-      <rect x="221.224" y="104.402" width="56.433" height="130.361" rx="5" ry="5" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102); stroke-width: 5px;"/>
+      <rect x="221.224" y="104.402" width="56.433" height="130.361" rx="5" ry="5" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102); stroke-width: 2;"/>
       <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="125.282" x2="266.94" y2="125.282"/>
       <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="136.005" x2="266.94" y2="136.005"/>
     </g>
     <g transform="matrix(1, 0, 0, 1, 99.278313, 44.862358)">
-      <rect x="221.224" y="104.402" width="56.433" height="130.361" rx="5" ry="5" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102); stroke-width: 5px;"/>
+      <rect x="221.224" y="104.402" width="56.433" height="130.361" rx="5" ry="5" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102); stroke-width: 2;"/>
       <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="125.282" x2="266.94" y2="125.282"/>
       <line style="stroke: rgb(102, 102, 102); stroke-width: 3px;" x1="231.94" y1="136.005" x2="266.94" y2="136.005"/>
     </g>
-    <line style="stroke: rgb(102, 102, 102); stroke-width: 3px; stroke-dasharray: 10, 10, 5, 5, 5, 10;" x1="262.982" y1="235.332" x2="320.503" y2="235.332" transform="matrix(1, 0.000022, -0.000022, 1, 0.005177, -0.006418)"/>
+    <line style="stroke: rgb(102, 102, 102); stroke-width: 2; stroke-dasharray: 10, 10, 5, 5, 5, 10;" x1="262.982" y1="235.332" x2="320.503" y2="235.332" transform="matrix(1, 0.000022, -0.000022, 1, 0.005177, -0.006418)"/>
     <text style="font-size: 21.9px; font-family: Roboto; white-space: pre; fill: rgb(102, 102, 102);" x="212.877" y="254.814">你好</text>
     <text style="font-size: 15.3px; font-family: Roboto; white-space: pre; fill: rgb(102, 102, 102);" x="327.278" y="255.928">ഉന്നത</text>
     <text style="font-size: 20px; white-space: pre; fill: rgb(102, 102, 102);" x="274.969" y="223.128">Hei</text>

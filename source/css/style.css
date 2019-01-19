@@ -33,7 +33,7 @@ header {
   justify-content: space-around;
 }
 
-.f-logo-normal {
+.f-fint-logo-normal {
   width: 150px;
 }
 
@@ -41,21 +41,21 @@ header {
   width: 75px;
 }
 
-.f-logo {
+.f-fint-logo {
   display: flex;
   flex-direction: row;
   align-items: baseline;
 }
 
-.f-logo-normal {
+.f-fint-logo-normal {
   width: 150px;
 }
 
-.f-logo-large {
+.f-fint-logo-large {
   width: 100%;
 }
 
-.f-logo-small {
+.f-fint-logo-small {
   width: 50px;
 }
 
@@ -63,7 +63,7 @@ header {
   width: 75px;
 }
 
-.f-logo {
+.f-fint-vigo-logo {
   display: flex;
   flex-direction: row;
   align-items: baseline;
@@ -77,11 +77,9 @@ header {
   z-index: 99;
   background-color: #8bc34a;
   color: #ffffff;
-  /* padding: 15px; */
   border-radius: 50%;
   height: 50px;
   width: 50px;
-  /* font-size: 18px; */
   border: none;
   box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
   cursor: pointer;
@@ -100,19 +98,16 @@ i {
 
 .f-feature-button {
   color: #fff;
-  /*text-align: center;*/
   display: inline-block;
   font-size: 16px;
   border-radius: 6px;
   padding: 0 25px;
   line-height: 40px;
-  /* text-decoration: none; */
   background-color: #cf202e;
   text-transform: uppercase;
   font-weight: 600;
   border: 0;
   box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
-  /*cursor: pointer;*/
 }
 
 .f-main-menu-nav {
@@ -145,6 +140,7 @@ i {
   color: #cf202e;
   font-size: 1rem;
   font-weight: bold;
+  text-transform: uppercase;
 }
 
 footer {
@@ -167,7 +163,7 @@ footer {
 }
 
 .f-contact a,
-.f-copyright a {
+.f-vigo-footer-link a {
   color: #333333;
 }
 
@@ -182,7 +178,7 @@ footer {
   margin: 0;
 }
 
-.f-copyright {
+.f-vigo-footer-link {
   display: flex;
   align-items: center;
 }
@@ -193,7 +189,6 @@ footer {
   justify-content: space-evenly;
   align-items: center;
   margin: 30px;
-  /* font-size: 20px; */
 }
 
 .f-about-fint p > a {
@@ -209,9 +204,6 @@ footer {
 .f-about-fint > img {
   width: 35%;
   max-width: 430px;
-  /* height: 35%; */
-  /* min-height: 500px; */
-  /* margin-left: auto; */
 }
 
 .markdown {
@@ -267,7 +259,8 @@ footer {
   width: 100%;
 }
 
-.markdown table, tr {
+.markdown table,
+tr {
   border: 1px solid #ddd;
 }
 
@@ -290,26 +283,26 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  font-size: 1.1em;
-  margin: 30px;
+  font-size: 1.4em;
+  padding: 30px;
 }
 
-.f-homepage-section p {
-  font-size: 1.1em;
+.f-homepage-section div {
   margin: 0;
   width: 50%;
+  display: flex;
+  flex-direction: column;
 }
 
-.f-homepage-section p > a {
-  font-size: 1.5em;
+.f-homepage-section div > p > a {
+  font-size: 1.2em;
 }
 
 .f-homepage-section > img {
   width: 35%;
   max-width: 430px;
-  /* height: 35%; */
-  /* min-height: 500px; */
-  /* margin-left: auto; */
+  max-height: 250px;
+  align-self: center;
 }
 
 /* Base */
@@ -318,17 +311,11 @@ html {
 }
 
 body {
-  /* font-family: "Roboto", sans-serif;*/
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   min-height: 100%;
   color: #666;
-  /*
-  font-weight: 400;
-  font-size: 1.6rem;
-  line-height: 1.6em;
-  */
 }
 
 code {
@@ -343,21 +330,13 @@ button:focus {
   outline: none;
 }
 
-h1 {
-  /*font-size: 3em;*/
-}
-
-h2 {
-  /*font-size: 2em;*/
-}
-
 main {
   grid-area: main;
   height: 100%;
 }
 
 /* Layout */
-#content {
+#f-content {
   display: grid;
   grid-template-columns: 1fr;
   grid-auto-rows: 300px auto 100px;
@@ -376,12 +355,6 @@ main {
 
 .f-row p {
   width: 50%;
-}
-
-.f-main-content {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
 }
 
 /*# sourceMappingURL=style.css.map */

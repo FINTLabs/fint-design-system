@@ -52,7 +52,8 @@
     width: 100%;
 }
 
-.markdown table, tr {
+.markdown table,
+tr {
     border: 1px solid #ddd;
 }
 
@@ -60,6 +61,7 @@
     background-color: $color-vigo-grey;
     color: #fff;
 }
+
 .markdown th,
 .markdown td {
     text-align: left;

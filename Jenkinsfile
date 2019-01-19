@@ -38,5 +38,10 @@ pipeline {
                 }
             }
         }
+        stage('Update k8s deployment') {
+            steps {
+                kubernetesDeploy configs: 'design-system-deployment.yml', kubeconfigId: 'aks-beta-fint'
+            }
+        }
     }
 }

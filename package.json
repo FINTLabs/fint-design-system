@@ -19,12 +19,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pattern-lab/cli": "^0.0.1-beta.1",
+    "@pattern-lab/cli": "^0.0.3",
     "@pattern-lab/core": "^3.0.0-beta.1",
     "@pattern-lab/engine-mustache": "^2.0.0-beta.0",
     "@pattern-lab/starterkit-mustache-base": "^3.0.3",
     "@pattern-lab/uikit-workshop": "^1.0.0-beta.0",
-    "sass": "^1.15.3"
+    "sass": "^1.22.1"
   },
   "devDependencies": {
     "uglifycss": "^0.0.29"

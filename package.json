@@ -19,8 +19,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pattern-lab/cli": "^0.0.1-beta.1",
-    "@pattern-lab/core": "^3.0.0-beta.1",
+    "@pattern-lab/cli": "^5.0.0",
+    "@pattern-lab/core": "^5.14.2",
     "@pattern-lab/engine-mustache": "^2.0.0-beta.0",
     "@pattern-lab/starterkit-mustache-base": "^3.0.3",
     "@pattern-lab/uikit-workshop": "^1.0.0-beta.0",
